@@ -116,25 +116,7 @@ header {
   background-color: #242C3B;
 }
 
-.dsmeta-red-btn {
-   height: 45px;
-   width: 45px;
-   background-color: rgba(255, 107, 144, 0.1);
-   border: 1px solid #FF6B72;
-   border-radius: 10px;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   cursor: pointer;
-}
 
-.dsmeta-red-btn img {
-  width: 19px;
-}
-
-.dsmeta-red-btn-container {
-  display: flex;
-  justify-content: center;
 }
 
 .show576 {
